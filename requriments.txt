@@ -1,0 +1,10 @@
+Systémové a technické požadavky (Environment)
+Programovací jazyk: Python 3.8 nebo novější (pro správné zpracování f-stringů a raw textů pro LaTeX doporučeno 3.12+).
+
+Potřebné externí knihovny: * streamlit (pro běh webového uživatelského rozhraní)
+
+pandas (pro správu datových struktur v tabulce sekundárních vinutí)
+
+Vestavěné knihovny: math (standardní součást Pythonu).
+
+Způsob spouštění: Aplikace se nespouští jako běžný skript, ale jako lokální webový server přes terminál příkazem: streamlit run transformator.py
