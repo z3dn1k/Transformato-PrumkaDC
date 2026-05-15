@@ -22,8 +22,7 @@ Aplikace běží na Python frameworku **Streamlit**. Pokud ještě nemáš nains
 ### 1. Stažení projektu
 Stáhni si tento repozitář (zelené tlačítko `Code` -> `Download ZIP`) a rozbal ho do libovolné složky, nebo použij git:
 ` ` `bash
-git clone https://github.com/TvojeJmeno/trafo-app.git
-cd trafo-app
+git clone https://github.com/z3dn1k/Transformato-PrumkaDC
 ` ` `
 *(Poznámka: v reálném souboru odstraň mezery mezi zpětnými apostrofy v ukázkách kódu)*
 
