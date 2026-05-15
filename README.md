@@ -1,4 +1,4 @@
-# Návrh nf transformátoru (Generátor pro Průmyslovku Děčín)
+# Návrh nf transformátoru (Generátor pro Průmyslovku Děčín) - Prototype
 
 Ahoj! Tato aplikace byla vytvořena speciálně pro studenty **Vyšší odborné školy a Střední průmyslové školy strojní, stavební a dopravní v Děčíně**. 
 
